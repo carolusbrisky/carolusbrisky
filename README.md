@@ -154,4 +154,4 @@
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=carolusbrisky)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=carolusbrisky&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
