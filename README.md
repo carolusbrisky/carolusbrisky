@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="/assets/banner.png" alt="Banner" />
+  <img src="/assets/banner.png" alt="Banner" style="border-radius: 10px;"/>
 </p>
 
 <h1 align="center">Hi there 👋, I'm Risky</h1>
