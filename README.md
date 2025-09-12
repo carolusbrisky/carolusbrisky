@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="/assets/banner.png" alt="Banner" />
+</p>
+
 <h1 align="center">Hi there 👋, I'm Risky</h1>
 <h3 align="center"> Informatics Engineering Student | Focused on Software & System Development</h3>
 
@@ -7,11 +11,11 @@
 
 ## About Me
 
-**Hi! I’m Risky**, a freelance developer currently pursuing my studies in IT. I enjoy experimenting with modern technologies and love building projects—ranging from simple websites to microservices-based systems.
+&nbsp;&nbsp;&nbsp;&nbsp;Hi! I’m Risky, **a freelance developer** currently pursuing my studies in IT. I enjoy experimenting with modern technologies and love building projects ranging from simple websites to microservices-based systems.
 
-I believe coding is not just about writing lines of code, but about creating solutions that truly help people.
+*I believe coding is not just about writing lines of code, but about creating solutions that truly help people.*
 
-If you’re looking for a partner to build an app, a website, or simply to chat about technology, feel free to connect with me! 
+If you’re looking for a partner to build an app, a website, or simply to chat about technology, feel free to **connect with me!**
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/carolusbrisky/carolusbrisky/output/pacman-contribution-graph-dark.svg">
