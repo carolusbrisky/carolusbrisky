@@ -17,6 +17,12 @@
 
 If you’re looking for a partner to build an app, a website, or simply to chat about technology, feel free to **connect with me!**
 
+<p align="center">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=carolubrisky@gmail.com" target="_blank">
+    Get in touch via Gmail
+  </a>
+</p>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/carolusbrisky/carolusbrisky/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/carolusbrisky/carolusbrisky/output/pacman-contribution-graph.svg">
